@@ -1,5 +1,5 @@
 # RSA
-Sharing a working RSA algorithm in C
+Sharing a simple working RSA algorithm in C
 
 I had a hard time finding a simple working RSA algorithm for my project. So I some improvements to 
 [this RSA algorithm](https://d3c33hcgiwev3.cloudfront.net/_24f8f0f03c28125c673fd64ce47b253a_rsa.c?Expires=1607731200&Signature=NjPTYrZzCNUskBgDjkHW-x3Hv4YakUGIRoX01XfCQtQD6NcBIBRFBoOuSSyQskuhawDZgAJXf9VJlVvxbK56y~uMx1b2KosOJhTNNRlTdIk8nNh5NTn1zmQGCaRkoIkc-zq5HE1L5flsZumXdd7LR7mJLcUpKqnX9I3Kb72hZWM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) shared by Coursera. As it took me some hours, I'm sharing this to whoever could make use of it :)
